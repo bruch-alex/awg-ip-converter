@@ -1,6 +1,7 @@
 # IP адреса для AWG
 
 > Список ip адресов взят с [RockBlack](https://rockblack.su/vpn/dopolnitelno/diapazon-ip-adresov)
+> Там же есть ссылка на утилиту для генерации своих диапазонов IP адресов
 
 ## Списки ip конвертированные для AmneziaWG
 
