@@ -4,14 +4,16 @@
 
 ## Списки ip конвертированные для AmneziaWG
 
-[Youtube](src/resources/awg_ips/youtube_and_tv.json)
+[Youtube](awg_ips/youtube_tv.json)
 
-[ChatGPT](src/resources/awg_ips/chatGPT.json)
+[ChatGPT](awg_ips/chatGPT.json)
 
-[Discord](src/resources/awg_ips/discord.json)
+[Discord](awg_ips/discord.json)
 
-[Instagram](src/resources/awg_ips/instagram.json)
+[Instagram](awg_ips/instagram.json)
 
-[Twitter](src/resources/awg_ips/twitter.json)
+[Twitter](awg_ips/twitter.json)
 
-[Netflix](src/resources/awg_ips/netflix.json)
+[Netflix](awg_ips/netflix.json)
+
+[Youtube+TV+Instagram+Torrent+meta+m.youtube](awg_ips/youtube_tv_inst_torrent_meta.json)
