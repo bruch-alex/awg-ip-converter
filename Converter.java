@@ -1,5 +1,3 @@
-package main;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -11,7 +9,7 @@ public class Converter {
     private static final Pattern ip = Pattern.compile("[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}(/[0-9]{1,3})?");
 
     public static void main(String[] args) throws IOException {
-        File folder = new File("./src/resources/ranges/");
+        File folder = new File("./ranges/");
         File[] listOfFiles = folder.listFiles();
 
         for (var file : listOfFiles) {
@@ -32,10 +30,9 @@ public class Converter {
         }
         result.deleteCharAt(result.length() - 2).append(']'); // delete last coma and add ]
 
-        try (FileWriter output = new FileWriter("./src/resources/awg_ips/" + file.getName().replace(".txt", ".json"))) {
+        try (FileWriter output = new FileWriter("./awg_ips/" + file.getName().replace(".txt", ".json"))) {
             output.write(result.toString());
         }
-        System.out.println("File saved");
     }
 
 }
