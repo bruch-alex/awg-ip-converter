@@ -1,6 +1,6 @@
 # IP adress converter for AmneziaWG
 
-![GitHub Release Date](https://img.shields.io/github/release-date/bruch-alex/awg-ip-converter?label=Latest%20release)
+!![GitHub Release Date](https://img.shields.io/github/release-date/bruch-alex/awg-ip-converter?label=Latest%20release&link=https%3A%2F%2Fgithub.com%2Fbruch-alex%2Fawg-ip-converter%2Freleases%2Flatest)
 [![ru](https://img.shields.io/badge/язык-русский-blue)](README.md)
 
 > List of ip addresses taken from [RockBlack](https://rockblack.su/vpn/dopolnitelno/diapazon-ip-adresov)

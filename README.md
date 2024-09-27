@@ -1,6 +1,6 @@
 # Конвертер IP адресов для AmneziaWG
 
-![GitHub Release Date](https://img.shields.io/github/release-date/bruch-alex/awg-ip-converter?label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%80%D0%B5%D0%BB%D0%B8%D0%B7)
+!![GitHub Release Date](https://img.shields.io/github/release-date/bruch-alex/awg-ip-converter?label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&link=https%3A%2F%2Fgithub.com%2Fbruch-alex%2Fawg-ip-converter%2Freleases%2Flatest)
 [![en](https://img.shields.io/badge/lang-english-blue)](README-en.md)
 
 
